@@ -2,7 +2,7 @@
 #### I am a Computer Science and Engineering student.
 ![I am a Computer Science and Engineering student.](https://pbs.twimg.com/profile_banners/1870869160827518976/1736245534/1080x360)
 
-Hello! I'm a student of Computer Science and Engineering, currently learning C programming. I'm passionate about exploring new technologies and enhancing my coding skills. On my GitHub, you'll find projects and code snippets that showcase my journey and growth as a developer. Let's connect and collaborate!
+Currently, I am learning C programming. I'm passionate about exploring new technologies and enhancing my coding skills. On my GitHub, you'll find projects and code snippets that showcase my journey and growth as a developer. Let's connect and collaborate!
 
 Skills: C programming
 
