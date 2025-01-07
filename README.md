@@ -14,7 +14,5 @@ Skills: C programming
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/diu-shpranto)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/diu-shpranto/contributions?format=svg&private=false)  
 
